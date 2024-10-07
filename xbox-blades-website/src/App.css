@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+p {
+  color: #555;
+  font-size: 18px;
+}
+
+li {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Dashboard {
+  background-color: #f4e0ac;
+}
+
+.Blade {
+  background-color: #e2d3a8;
+  border-radius: 0 20px 20px 0;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.SidebarItem {
+  font-weight: bold;
+  background-color: #d9d9d9;
+}
